@@ -12,3 +12,10 @@
 ## Architecture Design Decisions
 
 1. [video][SATURN 2017 Talk: Architecture Decision Records in Action](https://www.youtube.com/watch?v=41NVge3_cYo)
+
+
+## Architecture Patterns and Tactics
+
+
+## Architecture Design Methods
+1. ADD - Attribute Driven Design - [Designing Software Architectures: A Practical Approach (SEI Series in Software Engineering)](https://www.amazon.com/Designing-Software-Architectures-Practical-Engineering/dp/0134390784)
